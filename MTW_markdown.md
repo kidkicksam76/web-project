@@ -1,4 +1,4 @@
-# Mapping The Web
+# Browser Limitations and Compatibility Issues 
 
 ## About
 
